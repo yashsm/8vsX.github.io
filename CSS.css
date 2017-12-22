@@ -39,6 +39,8 @@ h2:hover {
 
 .xlog2 {
 	height:100px;
+	position: relative;
+	bottom: 658px;
 }
 
 .iphone {
@@ -48,6 +50,7 @@ h2:hover {
 
 .galaxy {
 	height: 800px; 
+	margin-left: 40px;
 	
 }
 
