@@ -1,0 +1,80 @@
+.title1 {
+
+	font-size: 200px;
+	position: absolute;
+	margin-top: -720px; 
+	margin-left: 658px; 
+	font-family: Helvetica; 
+	font-weight: lighter; 
+	color: white; 
+    text-align: center;
+
+	}
+
+img{
+		margin-right: 20px
+		float: center;
+	}
+	
+	
+	
+.title2 {
+    font-size: 20px;
+	position: absolute;
+	margin-top: -500px; 
+	margin-left: 775px; 
+	font-family: Helvetica; 
+	font-weight: lighter; 
+	color: grey; 
+	opacity: 10%
+   }
+
+h2:hover {
+  color: white;
+}
+
+.xlog {
+	height:80px;
+}
+
+.xlog2 {
+	height:100px;
+}
+
+.iphone {
+	height: 700px; 
+
+}
+
+.galaxy {
+	height: 800px; 
+	
+}
+
+ul {
+    list-style-type: none;
+    margin-top: -3px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+	display: fixed; 
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	font-family: Helvetica;
+}
+
+
+li a:hover {
+    background-color: #111;
+}
+
