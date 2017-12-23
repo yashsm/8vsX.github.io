@@ -34,23 +34,31 @@ h2:hover {
 }
 
 .xlog {
+	position: relative;
 	height:80px;
+	margin-left: 850px;
+	bottom: 650px;
 }
 
 .xlog2 {
-	height:100px;
+	height:110px;
 	position: relative;
 	bottom: 658px;
+	margin-left: 20px
 }
 
 .iphone {
 	height: 700px; 
+	position: relative;
+	margin-left: 1330px;
+		margin-top: 110px;
 
 }
 
 .galaxy {
 	height: 800px; 
-	margin-left: 60px;
+	margin-left: 100px;
+
 	
 }
 
@@ -79,5 +87,44 @@ li a {
 
 li a:hover {
     background-color: #111;
+}
+
+.s8d {
+	color: #b3b3b3; 
+	width: 400px; 
+	font-family: Helvetica; 
+	font-size: 22px
+	}
+	
+	.s8d {
+		margin-left: 550px; 
+		margin-top: -650px;
+	}
+	
+	.s8d:hover {
+    color: black;
+}
+
+
+
+	.ixd {
+	color: #b3b3b3; 
+	width: 420px; 
+	font-family: Helvetica; 
+	font-size: 22px
+	}
+
+	.ixd {
+		
+		margin-left: 850px; 
+		margin-top: -612px;
+	}
+	
+	.ixd:hover {
+    color: black;
+}
+
+.resize {
+	right: 600px
 }
 
