@@ -1,0 +1,506 @@
+
+
+
+.title1 {
+
+	font-size: 200px;
+	position: absolute;
+	margin-top: -720px; 
+	margin-left: 658px; 
+	font-family: Helvetica; 
+	font-weight: lighter; 
+	color: white; 
+    text-align: center;
+
+	}
+
+img{
+		margin-right: 20px
+		float: center;
+	}
+	
+	
+	
+.title2 {
+    font-size: 20px;
+	position: absolute;
+	margin-top: -500px; 
+	margin-left: 775px; 
+	font-family: Helvetica; 
+	font-weight: lighter; 
+	color: grey; 
+	opacity: 10%
+   }
+
+h2:hover {
+  color: white;
+}
+
+.xlog {
+	position: relative;
+	height:80px;
+	margin-left: 850px;
+	bottom: 650px;
+}
+
+.xlog2 {
+	height:110px;
+	position: relative;
+	bottom: 658px;
+	margin-left: 20px
+}
+
+.iphone {
+	height: 700px; 
+	position: relative;
+	margin-left: 1330px;
+		margin-top: 110px;
+
+}
+
+.galaxy {
+	height: 800px; 
+	margin-left: 100px;
+
+	
+}
+
+ul.navi {
+    list-style-type: none;
+    margin-top: -3px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+	display: fixed; 
+}
+
+.navi li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	font-family: Helvetica;
+}
+
+
+li a:hover {
+    background-color: #111;
+}
+
+.s8d {
+	color: #b3b3b3; 
+	width: 400px; 
+	font-family: Helvetica; 
+	font-size: 22px
+	}
+	
+	.s8d {
+		margin-left: 550px; 
+		margin-top: -650px;
+	}
+	
+	.s8d:hover {
+    color: black;
+}
+
+
+
+	.ixd {
+	color: #b3b3b3; 
+	width: 420px; 
+	font-family: Helvetica; 
+	font-size: 22px
+	}
+
+	.ixd {
+		
+		margin-left: 850px; 
+		margin-top: -612px;
+	}
+	
+	.ixd:hover {
+    color: black;
+}
+
+.resize {
+	right: 600px
+}
+
+.bottom {
+	background-color: #333;
+	text-align: center; 
+	color: white;
+	padding: 14px 16px; 
+	margin-top: 400px;
+	font-family: Helvetica; 
+}
+
+.bheader {
+	font-size:88px
+	
+	
+}
+
+h1.bheader {
+	font-family: Helvetica; 
+    text-align: center; 
+	margin-top: 20px;
+}
+
+.h21 { 
+   font-family: Helvetica; 
+   text-align: center; 
+	font-size: 18px; 
+	margin-top: -60px; 
+	color: grey; 
+   
+}
+
+.h21:hover {
+	color: black; 
+}
+
+.iphone2 {
+	height: 800px;
+	margin-left: -5px;
+	position:relative; 
+	bottom: -20px; 
+	
+}
+
+#xsl {
+    color: black; 
+    height: 400px;
+	font-family: Helvetica; 
+	font-size: 22px
+	
+}
+#xsl {
+	margin-left: 600px; 
+	margin-top: -680px; 
+}
+
+.spcix {
+	
+}
+
+.h212 { 
+   font-family: Helvetica; 
+   text-align: center; 
+	font-size: 18px; 
+	margin-top: -176px; 
+	color: black; 
+	margin-left: -250px;
+   
+}
+
+.h212:hover {
+	color: grey; 
+}
+
+#xsl2 {
+    color: black; 
+    height: 400px;
+	font-family: Helvetica; 
+	font-size: 22px
+	
+}
+#xsl2 {
+	position:relative; 
+	margin-left: 600px; 
+	margin-top: 250px; 
+}
+
+.ixc {
+	height:650px; 
+	float: right; 
+	margin-top: -300px; 
+	
+}
+
+
+	.ixd2 {
+	color: black; 
+	width: 500px; 
+	font-family: Helvetica; 
+	font-size: 22px
+	}
+
+	.ixd2 {
+		position: realtive; 
+		margin-left: 1148px; 
+		margin-top: -659px;
+	}
+	
+	
+.h2121{ 
+   font-family: Helvetica; 
+   text-align: center; 
+	font-size: 18px; 
+	margin-top: -268px; 
+	color: black; 
+	margin-left:790px;
+   
+}
+
+.h2121:hover {
+	color: grey; 
+}
+	.bottom2{
+	background-color: #333;
+	text-align: center; 
+	color: white;
+	padding: 14px 20px; 
+	margin-top: 900px;
+	font-family: Helvetica; 
+	position: fixed:
+
+}
+
+.bottom2{
+	margin-left: -20px; 
+}
+
+div.s8s {
+  height:87em;
+  width:115em;
+  background-color:black;
+  float:left;
+  margin-top:-20px; 
+  margin-left:-20px;
+}
+
+.galaxy2 {
+	height: 900px;
+	margin-top: 40px; 
+	margin-left: 1000px; 
+}
+
+#s8specs {
+	position: relative;
+    color: white; 
+    height: 400px;
+	font-family: Helvetica; 
+	font-size: 22px
+	}
+#s8specs {
+	margin-top: -750px;
+	margin-left: 60px; 
+}
+
+.h2GS {
+	position: relative;
+	font-family: Helvetica; 
+    font-size: 18px; 
+	color: grey;
+	text-align: center; 
+	margin-top: -420px;  
+	margin-left: -190px;
+	}
+
+
+#S8scores{
+	color: white; 
+    height: 400px;
+	font-family: Helvetica; 
+	font-size: 22px
+	
+}
+
+#S8scores{
+	position: relative;
+	margin-left: 650px;
+	margin-top: -40px;
+	
+}
+
+.h2FC {
+	position: relative;
+	font-family: Helvetica; 
+    font-size: 18px; 
+	color: grey;
+	text-align: center; 
+	bottom: -75px;
+	right: 134px;
+	}
+
+	.S8fastC{
+	position: relative; 
+    color: white; 
+	width: 420px; 
+	font-family: Helvetica; 
+	font-size: 22px
+}
+
+.S8fastC{
+	left: 668px;
+    bottom: 313px;	
+}
+
+.S8C {
+	height: 550px;
+	margin-top: -200px;
+	
+}
+
+.bottom3{
+	background-color: #333;
+	text-align: center; 
+	color: white;
+	padding: 14px 20px; 
+	margin-top: 1390px;
+	font-family: Helvetica; 
+	position: fixed:
+}
+
+.s8box {
+	position: realtive; 
+	margin-top: 40px;
+	margin-left: -150px;
+}
+
+#s8labels {
+	 color: black; 
+    height: 400px;
+	font-family: Helvetica; 
+	font-size: 22px
+	}
+	
+	#s8labels {
+	margin-left: 1300px;
+	margin-top: -1000px;
+	}
+
+	.bottom4{
+   	background-color: #333;
+	text-align: center; 
+	color: white;
+	padding: 14px 20px; 
+	margin-top: 660px;
+	font-family: Helvetica; 
+	position: fixed:
+	}
+	
+	.ixbox {
+		height: 700px;
+	}
+	
+	.AX {
+		padding: 50px;
+		height:500px;
+	}
+	
+	#ixlabels {
+	 color: black; 
+    height: 400px;
+	font-family: Helvetica; 
+	font-size: 22px
+	}
+	
+	#ixlabels {
+	margin-left: 1350px;
+	margin-top: -400px;
+    }
+	
+	.bottom5{
+	background-color: #333;
+	text-align: center; 
+	color: white;
+	padding: 14px 20px; 
+	font-family: Helvetica; 
+	position: fixed:
+}
+
+.s83 {
+	height: 800px;
+	margin-left:-150px;
+}
+
+.bheader2 {
+	font-size:80px
+	
+	
+}
+
+h1.bheader2{
+	font-family: Helvetica; 
+    text-align: center; 
+	margin-left: -590px;
+	margin-top: -700px;
+	font-weight: lighter;
+}
+
+.h22 { 
+   font-family: Helvetica; 
+   text-align: center; 
+   font-size: 22px; 
+   margin-top: -60px; 
+   color: grey; 
+   margin-left: -560px;
+   
+}
+
+.buys8 {
+	margin-left: 590px;
+	margin-bottom: 40px;
+	color: white; 
+	background-color: blue; 
+	font-size: 18px;
+	border: blue;
+	
+}
+
+.iphone4 {
+	height:710px;
+	margin-left: 870px;
+	margin-top: -210px;
+}
+
+.bheader3 {
+	font-size:80px
+	
+	
+}
+
+h1.bheader3{
+	font-family: Helvetica; 
+    text-align: center; 
+	margin-left: 1100px;
+	margin-top: -700px;
+	font-weight: lighter;
+}
+
+.h23 { 
+   font-family: Helvetica; 
+   text-align: center; 
+   font-size: 22px; 
+   margin-top: -60px; 
+   color: grey; 
+   margin-left: 1100px;
+   
+}
+
+.buyix {
+	margin-left: 1424px;
+	margin-top: -50px;
+	color: white; 
+	background-color: blue; 
+	font-size: 18px;
+	border: blue;
+	
+}
+
+.bottom6 {
+	background-color: #333;
+	text-align: center; 
+	color: white;
+	padding: 14px 20px; 
+	font-family: Helvetica; 
+	margin-top: 620px;
+	
+}
